@@ -1,7 +1,3 @@
-
-syntex-logo-2
-
-
 ## Welcome to McGill Experimental Syntax Reading Group
 
 September 28th, 2017
