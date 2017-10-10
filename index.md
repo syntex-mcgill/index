@@ -9,6 +9,7 @@ For our first session, we will be discussing [Friederici et al. (2017)](../welco
 
 We hope to see you there!
 
+------------------------
 
 September 28th, 2017
 
