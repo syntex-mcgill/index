@@ -4,7 +4,7 @@ November 8th, 2017
 
 Our next meeting will take place on **Tuesday November 14th 3:00-4:00 pm at the Rabinovitch house** (3640 rue de la Montagne). 
 We will be discussing Working Memory models in relationship with semantic adn syntactic interference. 
-For that purpose, we will read [Tan, Martin & Van Dyke (2017)](../welcome/tan.etal.2017.pdf)
+For that purpose, we will read [Tan, Martin & Van Dyke (2017)](../welcome/Tan.etal.2017.pdf)
 
 See you on Tuesday !
 
