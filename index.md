@@ -2,7 +2,7 @@
 
 November 21st, 2017
 
-Our next meeting will take place on **Tuesday November 28th 3:00-4:00 pm at the School of Communication Sciences and Disorders Room 831** (2001 McGill College). We will be discussing Neurophysiological dynamics of phrase-structure building
+Our next meeting will take place on **Tuesday November 28th 4:00-5:00 pm at the School of Communication Sciences and Disorders - Room 831** (2001 McGill College). We will be discussing Neurophysiological dynamics of phrase-structure building
 For that purpose, we will read [Nelson et al.(2017)](../welcome/Nelson.etal.2017.pdf). 
 
 See you on Tuesday !
